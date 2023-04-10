@@ -45,3 +45,6 @@ make build-version \
     POETRY_VERSION="1.1.13" \
     PYTHON_IMAGE_TAG="3.10-slim"
 ```
+
+## References
+https://github.com/orgs/python-poetry/discussions/1879
